@@ -1,10 +1,6 @@
 {
     "rewrites" : [
         {
-            "source": "/heunjeok-server/bookreviews/:match*",
-            "destination":"http://heunjeok.dothome.co.kr/heunjeok-server/bookreviews/:match*"
-        },
-        {
             "source": "/heunjeok-server/:match*",
             "destination":"http://heunjeok.dothome.co.kr/heunjeok-server/:match*"
         }
