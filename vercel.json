@@ -2,7 +2,7 @@
     "rewrites" : [
         {
             "source": "/heunjeok-server/:match*",
-            "destination":"http://heunjeok.dothome.co.kr/heunjeok-server/:match*"
+            "destination":"http://heunjeok2025.dothome.co.kr/heunjeok-server/:match*"
         }
     ]
 }
