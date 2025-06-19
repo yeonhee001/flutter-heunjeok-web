@@ -132,7 +132,7 @@
 | 화면설계 | [화면설계.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8semi%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_01%EA%B8%B0%ED%9A%8D%2C%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84.pdf) | 주요 페이지의 화면 구성, 사용자 흐름 등 와이어프레임 기반 설계 자료 |
 | 디자인 | [디자인.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8semi%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_02%EB%94%94%EC%9E%90%EC%9D%B8.pdf) | Figma로 작업한 디자인 시안. 색상, 폰트, UI 요소 등 자료 |
 | 발표자료 | [발표자료.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8semi%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_03PPT.pdf) | 팀 프로젝트 발표용 슬라이드 자료 |
-| 인터페이스 기능 보고서 | [기능보고서.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)%EA%B5%AC%ED%98%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%86%8C%EC%97%B0%ED%9D%AC.pdf) | 구현된 기능별 상세 설명 |
+| 인터페이스 기능 보고서 | [기능보고서.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%29%EA%B5%AC%ED%98%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%86%8C%EC%97%B0%ED%9D%AC.pdf) | 구현된 기능별 상세 설명 |
 | 완료 보고서 | [완료보고서.pdf](https://github.com/yeonhee001/heunjeok/blob/main/work/3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EC%99%84%EB%A3%8C%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) | 프로젝트 진행 결과 요약 등 최종 보고 |
 
 
