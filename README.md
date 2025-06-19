@@ -121,40 +121,34 @@
 |**Slack** | **협업 도구 (커뮤니케이션)** |![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)| 
 |**Notion** | **협업 도구 (문서 & 관리)** |![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)| 
 | **Vercel** | **서버리스 플랫폼** |![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)|
-| **dothome** | **무료 웹호스팅으로 PHP 서버 배포<br>([heunjeok.dothome.co.kr](http://heunjeok.dothome.co.kr/heunjeok-server/bestseller.php))** |![dothome](https://img.shields.io/badge/dothome-22AEE4?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAYAAADkgu3FAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADqGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4NCgk8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPg0KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMjQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMzQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSI+DQoJCQk8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMDQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMTQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIvPg0KCQk8L3JkZjpEZXNjcmlwdGlvbj4NCgkJPHJkZjpEZXNjcmlwdGlvbiB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+PHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+DQo8L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz7Bo9ixAAACbklEQVRIS52VTaiNURSG3/VdrvzmXib+iyKUEorBRWTMADMDMz9JMlGGkoEkA1EGlJFCiTLASClkJKQYSMlP/kou4nkNzvcd+6zuuTf3ma13vWuts8/e+9vSCAAzgF3ANeAF8An4BpzM3lEBzASOA288BMCV5F9me2qpjQiwHfiQm5cAl8sa2xeA58CSUm+osmD7UERciojpOTcctn9ExEJJd22vz/mOQcBeScdK7X+JiH7bV4Hlpd4eBKySdLxMjpaI6IuIc8D4RitXdCQi2okS279sX7e93/Zm2+cl9WZfYoWkPR0KsDZvdgPwuF5t6d8K3Eja2SFqXwJTVKxoW1nUYPtJRGyqquphqUdElHE3ImK+pI2SVNnukbQ6m2oORMTbJrA9xvYE272S3GntylrVg2ZImpOztu9XVXWriYF5km7bfivpjKSfnRVdWar6r5smaULOSnqQ4qOS1kXE5IiYnHLD0ad8jxJfUjw3xT0pHpZK0kdJ33NC0oIUX0/xsxR3G/xZau1FBTwY4mi+tt3XuGvfTuAisK8+EE2uB3iUe7jV599XHjiVDW6ZDrdNwwDszLUFW0rjQM66Neg3sKOjawLYAHzNtU4Xtiy4mY1umf8Ap4GOPQNmA0eBwVzTABxs/O0bDqyUdC8ixra7FdgerA/A+/pKLI6ISdlX8Mj2QFVVgx0qMMv2l/yrRkP93Hc8E22AE7lgNAAfh3r4pNaQXfXGfwZeAe+AX7nJSAAPuz3lst0LrAEWAf3ARGAKsBQ4AbzPDTPAM2A3MC73bxjxc297uu2Nkgbqr0W/pN/1oXgq6U5E3IuIH7m25C/8PXPCVobe0AAAAABJRU5ErkJggg==&logoColor=white)|
+| **dothome** | **무료 웹호스팅으로 PHP 서버 배포<br>([heunjeok2025.dothome.co.kr](http://heunjeok2025.dothome.co.kr/heunjeok-server/bestseller.php))** |![dothome](https://img.shields.io/badge/dothome-22AEE4?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAYAAADkgu3FAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADqGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4NCgk8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPg0KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMjQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMzQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSI+DQoJCQk8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMDQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMTQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIvPg0KCQk8L3JkZjpEZXNjcmlwdGlvbj4NCgkJPHJkZjpEZXNjcmlwdGlvbiB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+PHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+DQo8L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz7Bo9ixAAACbklEQVRIS52VTaiNURSG3/VdrvzmXib+iyKUEorBRWTMADMDMz9JMlGGkoEkA1EGlJFCiTLASClkJKQYSMlP/kou4nkNzvcd+6zuuTf3ma13vWuts8/e+9vSCAAzgF3ANeAF8An4BpzM3lEBzASOA288BMCV5F9me2qpjQiwHfiQm5cAl8sa2xeA58CSUm+osmD7UERciojpOTcctn9ExEJJd22vz/mOQcBeScdK7X+JiH7bV4Hlpd4eBKySdLxMjpaI6IuIc8D4RitXdCQi2okS279sX7e93/Zm2+cl9WZfYoWkPR0KsDZvdgPwuF5t6d8K3Eja2SFqXwJTVKxoW1nUYPtJRGyqquphqUdElHE3ImK+pI2SVNnukbQ6m2oORMTbJrA9xvYE272S3GntylrVg2ZImpOztu9XVXWriYF5km7bfivpjKSfnRVdWar6r5smaULOSnqQ4qOS1kXE5IiYnHLD0ad8jxJfUjw3xT0pHpZK0kdJ33NC0oIUX0/xsxR3G/xZau1FBTwY4mi+tt3XuGvfTuAisK8+EE2uB3iUe7jV599XHjiVDW6ZDrdNwwDszLUFW0rjQM66Neg3sKOjawLYAHzNtU4Xtiy4mY1umf8Ap4GOPQNmA0eBwVzTABxs/O0bDqyUdC8ixra7FdgerA/A+/pKLI6ISdlX8Mj2QFVVgx0qMMv2l/yrRkP93Hc8E22AE7lgNAAfh3r4pNaQXfXGfwZeAe+AX7nJSAAPuz3lst0LrAEWAf3ARGAKsBQ4AbzPDTPAM2A3MC73bxjxc297uu2Nkgbqr0W/pN/1oXgq6U5E3IuIH7m25C/8PXPCVobe0AAAAABJRU5ErkJggg==&logoColor=white)|
 | **Figma** | **디자인 & UI/UX**|![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) |
 
 
-## 📚 참고 URL
+## 📚 프로젝트 문서 자료
 
-- 기획서 : heunjeok Google Docs
-- 화면 설계 : heunjeok Figma
-- ppt : heunjeok Canva
-
-
-## 🌠 트러블슈팅 (Troubleshooting)
-
-> 개발 중 이슈와 해결 방안
-> 
-### ✅detail.dart
-
- - 기록 내용 수정 삭제 시, 비밀번호가 일치하는데 불일치하다는 메시지가 뜨는 이슈 발생
-비밀번호 입력 후 수정 시, 해당 기록 데이터에 값이 변경되는게 아니라 새로 추가되는 이슈 발생
-
-    ⇒ **해결방법**: 서버 요청 시, 필요한 칼럼의 값을 누락 없이 포함하도록 수정하여 기능이 정상 작동 되도록 개선
+| 문서종류 | 파일명 | 설명 |
+| :---:| :---: | :---: |
+| 화면설계 | [화면설계.pdf](https://github.com/yeonhee001/jeju-trip-02project/blob/main/work/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_01%EA%B8%B0%ED%9A%8D%2C%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84.pdf) | 주요 페이지의 화면 구성, 사용자 흐름 등 와이어프레임 기반 설계 자료 |
+| 디자인 | [디자인.pdf](https://github.com/yeonhee001/jeju-trip-02project/blob/main/work/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_02%EB%94%94%EC%9E%90%EC%9D%B8.pdf) | Figma로 작업한 디자인 시안. 색상, 폰트, UI 요소 등 자료 |
+| 발표자료 | [발표자료.pdf](https://github.com/yeonhee001/jeju-trip-02project/blob/main/work/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EB%96%A0%EB%82%98%EB%B4%85%EC%84%9C_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 팀 프로젝트 발표용 슬라이드 자료 |
+| 인터페이스 기능 보고서 | [기능보고서.pdf](https://github.com/yeonhee001/jeju-trip-02project/blob/main/work/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%29%EA%B5%AC%ED%98%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%86%8C%EC%97%B0%ED%9D%AC.pdf) | 구현된 기능별 상세 설명 |
+| 완료 보고서 | [완료보고서.pdf](https://github.com/yeonhee001/jeju-trip-02project/blob/main/work/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_B%ED%8C%80_%EC%99%84%EB%A3%8C%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) | 프로젝트 진행 결과 요약 등 최종 보고 |
 
 
-### ✅insert.php
+## 💥 트러블 슈팅
 
-- 프론트의 검색-기록 탭에서 실제로는 리뷰가 1개 밖에 없는데, 검색 결과가 비정상적으로 많이 나오는 이슈 발생
+### 📌 detail.dart
+
+ 1. 기록 내용 수정 삭제 시, 비밀번호가 일치하는데 불일치하다는 메시지가 뜨는 상황과 비밀번호 입력 후 수정 시, 해당 기록 데이터에 값이 변경되는게 아니라 새로 추가되는 이슈 발생
+
+    ⇒ **해결방법**: - 서버에 보낼 데이터 중 칼럼 값이 누락되어 기능이 오작동하여, JSON body 구조를 재점검하고 필수 값을 모두 포함하도록 수정
 
 
-    ⇒ **원인**: reviews 테이블과 book 테이블을 book_id 기준으로 JOIN하는데, book 테이블에 중복된 book_id가 있어서 하나의 리뷰가 중복된 책 행 수만큼 곱해져서 출력<br>
+### 📌 insert.php
+
+ 1. 프론트의 검색-기록 탭에서 실제로는 리뷰가 1개 밖에 없는데, 검색 결과가 비정상적으로 많이 나오는 이슈 발생
+
+    * reviews 테이블과 book 테이블을 book_id 기준으로 JOIN하는데, book 테이블에 중복된 book_id가 있어서 하나의 리뷰가 중복된 책 행 수만큼 곱해져서 출력<br>
     ⇒ **해결방법**: book 테이블에서 중복된 book_id 데이터를 삭제하고, book_id가 유일하게 유지되도록 데이터 정리
 
-## 💭 느낀점
-
-flutter를 활용해서 만든 프로젝트지만, 이전에 사용했던 React와 개념적으로 비슷한 부분들이 있어 비교적 빠르게 적응할 수 있었습니다.<br>
-상태관리나 컴포넌트 구조도 비슷해서 기능 구현에 집중할 수 있었고, <br>
-기본으로 제공되는 위젯들을 사용하며 편리함을 느꼈습니다. <br>
-CRUD를 기반으로 한 커뮤니티 앱을 만들면서 서버와의 연동 경험도 다시 한 번 쌓을 수 있었습니다.
